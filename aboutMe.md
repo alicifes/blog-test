@@ -15,11 +15,14 @@
 我正在学习`HTML` `CSS` `Javascript` 
 
 这是我的个人博客：[点我跳转](https://www.chendaxiang126.cn)
+
 平时喜欢分享一些学到的知识
 
-```(JavaScript)
+```javascript
 function f(){
   console.log("hell")
 }
 f()
 ```
+
+
